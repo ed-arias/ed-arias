@@ -1,4 +1,4 @@
-[![bg][banner]]
+[![bg][octocat]]
 ### Hi there 👋
 
 
